@@ -1,0 +1,1 @@
+# entidade-admin-catalogo-de-videos-typescript
